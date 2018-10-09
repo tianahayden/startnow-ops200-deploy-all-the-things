@@ -8,8 +8,8 @@
     "npm": "5.x.x"
   },
   "scripts": {
-    "build": "webpack",
     "start": "npm run build && node server/index.js",
+    "build": "webpack",
     "lint": "eslint .",
     "test": "npm run build && mocha test/*.spec.js --exit"
   },

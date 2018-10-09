@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://desolate-reaches-78868.herokuapp.com/",
+  "change_calculator": "https://tmh-react100changecalculator.herokuapp.com/",
+  "mortgage_calculator": "https://tmh-react100mortgagecalculator.herokuapp.com/",
+  "top_spots": "https://tmh-react100sdtopspots.herokuapp.com/",
+  "vstda": "https://tmh-react100vstda.herokuapp.com/"
 }
